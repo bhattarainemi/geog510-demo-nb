@@ -1,4 +1,18 @@
 # geog510-demo-nb
 
-This change has been made in the GIThub page.
-I added this second line.
+
+
+## Introduction
+
+This is demo repository.
+
+## Usage
+
+You can use this repository to practice using Git and GitHub.
+
+## Contributors
+
+Nemi
+
+
+
